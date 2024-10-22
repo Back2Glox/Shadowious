@@ -1,9 +1,4 @@
-title: Shadowious
-description: >
-  A test website with a theme.
-baseurl: "" # Set this to the subpath of your site (e.g., /blog), or leave blank for root.
-url: "https://Back2Glox.github.io/" # Your GitHub Pages URL
-theme: hacker  # Or any other theme
-author:
-  name: Victor Ian Townsend
-  email: victoriantownsend05.com
+title: My Jekyll Site
+description: > 
+  A site powered by Jekyll with the Hacker theme.
+theme: hacker

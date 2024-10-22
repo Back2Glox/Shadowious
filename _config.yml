@@ -1,4 +1,6 @@
 title: My Jekyll Site
 description: > 
   A site powered by Jekyll with the Hacker theme.
-theme: hacker
+remote_theme: pages-themes/hacker
+plugins:
+  - jekyll-remote-theme
